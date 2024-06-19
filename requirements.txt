@@ -1,0 +1,6 @@
+inquirer
+termcolor
+transformers
+torch
+Pillow
+tensorflow

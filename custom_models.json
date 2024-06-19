@@ -1,0 +1,14 @@
+{
+    "models": [
+      {
+        "name": "ViT Model",
+        "model_name": "google/vit-base-patch16-224",
+        "processor_name": "google/vit-base-patch16-224"
+      },
+      {
+        "name": "ResNet Model",
+        "model_name": "resnet/resnet-50",
+        "processor_name": "resnet/resnet-50"
+      }
+    ]
+  }

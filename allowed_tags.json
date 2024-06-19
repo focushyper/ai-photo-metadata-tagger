@@ -1,0 +1,49 @@
+{
+    "photography": [
+      "bokeh", "depth of field", "action shot", "zoom lens", "prime lens", "wide-angle", "telephoto",
+      "macro", "panorama", "hdr", "black and white", "monochrome", "color", "saturation", "contrast",
+      "sharpness", "focus", "blur", "motion blur", "panning", "long exposure", "time-lapse", "stop motion",
+      "portrait", "landscape", "wildlife", "macro photography", "street photography", "travel photography",
+      "nature photography", "wildlife photography", "underwater photography", "drone photography",
+      "aerial photography", "architectural photography", "interior photography", "real estate photography",
+      "food photography", "night photography", "astro photography", "fine art photography",
+      "conceptual photography", "abstract photography", "documentary photography", "photojournalism",
+      "fashion photography", "product photography", "commercial photography", "editorial photography",
+      "sports photography", "event photography", "wedding photography", "selfie", "group photo",
+      "candid", "posed", "film photography", "instant camera", "polaroid", "darkroom", "developing",
+      "printing", "scanning", "retouching", "editing", "photoshop", "lightroom", "mobile photography",
+      "smartphone photography", "iphoneography", "androidography", "dslr photography", "mirrorless photography",
+      "studio photography", "lighting", "composition", "rule of thirds", "focal length", "exposure",
+      "aperture", "shutter speed", "iso", "continuous light", "strobe light", "flash light", "LED light"
+    ],
+    "lighting": [
+      "natural light", "artificial light", "ambient light", "backlighting", "butterfly lighting", "broad lighting",
+      "short lighting", "split lighting", "loop lighting", "rembrandt lighting", "fill light", "key light",
+      "rim light", "hair light", "background light", "side lighting", "soft light", "hard light", "diffused light",
+      "specular light", "continuous light", "strobe light", "flash light", "LED light", "incandescent light",
+      "fluorescent light", "neon light", "daylight", "golden hour", "blue hour", "high key lighting",
+      "low key lighting", "silhouette", "reflective light", "bounce light", "catchlight", "studio lighting",
+      "on-camera flash", "off-camera flash", "ring light", "softbox", "umbrella light", "beauty dish",
+      "grid light", "gel light", "snoot light", "barn doors", "gobo light", "strip light"
+    ],
+    "clothing": [
+      "shirt", "t-shirt", "blouse", "pants", "jeans", "dress", "skirt", "shorts", "jacket", "coat",
+      "sweater", "hoodie", "suit", "tie", "scarf", "hat", "cap", "gloves", "socks", "shoes", "boots",
+      "sneakers", "sandals", "heels", "boots", "lingerie", "swimsuit", "uniform", "sportswear", "sleepwear"
+    ],
+    "fabric": [
+      "cotton", "wool", "silk", "linen", "polyester", "nylon", "denim", "leather", "suede", "velvet",
+      "satin", "chiffon", "lace", "corduroy", "tweed", "fleece", "canvas", "cashmere", "spandex", "rayon"
+    ],
+    "hair color": [
+      "black hair", "brown hair", "blonde hair", "red hair", "gray hair", "white hair", "blue hair",
+      "green hair", "pink hair", "purple hair", "dyed hair", "highlighted hair", "brunette", "auburn",
+      "chestnut hair", "ash blonde", "platinum blonde", "strawberry blonde", "dark brown hair", "light brown hair"
+    ],
+    "eye color": [
+      "brown eyes", "blue eyes", "green eyes", "hazel eyes", "gray eyes", "amber eyes", "dark brown eyes",
+      "light brown eyes", "deep blue eyes", "ocean blue eyes", "emerald green eyes", "forest green eyes",
+      "golden eyes", "cat eyes", "bright eyes", "dark eyes", "light eyes", "intense eyes", "soft eyes", "sparkling eyes"
+    ]
+  }
+  
