@@ -1,7 +1,7 @@
 # Automated AI Keyword Tagging Metadata Script for Photographers
 
-# DIGINAAT
-[www.Diginaat.com](https://www.diginaat.com) 
+# DIGINAAT - [Diginaat.com](https://www.diginaat.com) 
+
 
 Welcome to the Automated AI Keyword Tagging Metadata Script! This tool is designed specifically for photographers to help streamline the process of adding relevant keywords to their photos. By leveraging AI models, this script automatically generates and updates the metadata of your images with appropriate tags.
 
